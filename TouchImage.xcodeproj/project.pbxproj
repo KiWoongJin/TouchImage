@@ -21,6 +21,7 @@
 		00AFBC94187CD21400DD878F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AFBC76187CD21400DD878F /* UIKit.framework */; };
 		00AFBC9C187CD21400DD878F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBC9A187CD21400DD878F /* InfoPlist.strings */; };
 		00AFBC9E187CD21400DD878F /* TouchImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AFBC9D187CD21400DD878F /* TouchImageTests.m */; };
+		00AFBCA8187CD25000DD878F /* ball1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBCA7187CD25000DD878F /* ball1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AFBC99187CD21400DD878F /* TouchImageTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TouchImageTests-Info.plist"; sourceTree = "<group>"; };
 		00AFBC9B187CD21400DD878F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AFBC9D187CD21400DD878F /* TouchImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchImageTests.m; sourceTree = "<group>"; };
+		00AFBCA7187CD25000DD878F /* ball1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				00AFBC84187CD21400DD878F /* Main.storyboard */,
 				00AFBC87187CD21400DD878F /* ViewController.h */,
 				00AFBC88187CD21400DD878F /* ViewController.m */,
+				00AFBCA7187CD25000DD878F /* ball1.png */,
 				00AFBC8A187CD21400DD878F /* Images.xcassets */,
 				00AFBC79187CD21400DD878F /* Supporting Files */,
 			);
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00AFBCA8187CD25000DD878F /* ball1.png in Resources */,
 				00AFBC8B187CD21400DD878F /* Images.xcassets in Resources */,
 				00AFBC7D187CD21400DD878F /* InfoPlist.strings in Resources */,
 				00AFBC86187CD21400DD878F /* Main.storyboard in Resources */,
